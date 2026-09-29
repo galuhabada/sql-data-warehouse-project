@@ -1,4 +1,4 @@
-# Data Warehouse and Analytics
+# Data Warehouse and Analytics Project
 
 A modern Data Warehouse and Analytics project built with **SQL Server**, covering data ingestion, ETL processes, data transformation, dimensional modeling, and analytics.
 
